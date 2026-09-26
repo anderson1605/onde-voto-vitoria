@@ -1,8 +1,8 @@
-name: onde-voto-html
+name: onde-voto-vitoria
 static_sites:
 - environment_slug: html
   github:
     branch: main
     deploy_on_push: true
-    repo: anderson1605/onde-voto-html
-  name: onde-voto-html
+    repo: anderson1605/onde-voto-vitoria
+  name: onde-voto-vitoria
