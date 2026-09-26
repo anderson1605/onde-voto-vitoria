@@ -1,8 +1,8 @@
 spec:
-  name: onde-voto-html
+  name: onde-voto-vitoria
   static_sites:
   - environment_slug: html
     git:
       branch: main
       repo_clone_url: https://github.com/anderson1605/onde-voto-vitoria.git
-    name: onde-voto-html
+    name: onde-voto-vitoria
